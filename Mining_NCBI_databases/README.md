@@ -12,11 +12,14 @@ The script aims to discern (1) important networks, (2) uninteresting or virgin t
 
 **Examples:**
 
-TaxID: 9606	
-NCBI release: Homo sapiens Annotation Release 109
+**TaxID: 9606**
+**NCBI release: Homo sapiens Annotation Release 109**
 
-Set of 25 genes connected by PucMed articles:
+**Set of 25 genes connected by PubMed articles:**
 
-![Set of 25 genes connected by PucMed articles:](https://github.com/BalintSzucs/systems_biology_biological_models/blob/Mining_NCBI_Databases/Mining_NCBI_databases/sample_dataset1.png)
+![Set of 25 genes connected by PubMed articles:](https://github.com/BalintSzucs/systems_biology_biological_models/blob/Mining_NCBI_Databases/Mining_NCBI_databases/sample_dataset1.png)
 
 
+**Set of 25 genes connected by PubMed articles:**
+
+![Set of 100 genes connected by PubMed articles:](https://github.com/BalintSzucs/systems_biology_biological_models/blob/Mining_NCBI_Databases/Mining_NCBI_databases/sample_network_100_genes.png)
